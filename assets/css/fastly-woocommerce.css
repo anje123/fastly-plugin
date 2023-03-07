@@ -1,0 +1,13 @@
+.autocomplete-results {
+    background: black;
+    max-width: 40px;
+}
+
+.autocomplete-results .entry {
+	padding: 54px 5px0;
+}
+
+
+.autocomplete-results .entry:hover {
+	background: beige;
+}
